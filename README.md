@@ -1,4 +1,4 @@
-## 📌 FirstJPAProject
+##  FirstJPAProject
 
 This is my **first Java Persistence API (JPA) project**, created to understand how Java applications interact with databases using JPA and Hibernate.
 
@@ -26,7 +26,7 @@ This is a learning project developed using Eclipse IDE.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 FirstJPAProject
  ├── src
